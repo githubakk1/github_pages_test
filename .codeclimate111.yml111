@@ -1,12 +1,1 @@
----
-engines:
-  fixme:
-    enabled: true
-  eslint:
-    enabled: true
-  csslint:
-    enabled: true
-ratings:
-  paths:
-   - "**.js"
-exclude_paths: []
+
